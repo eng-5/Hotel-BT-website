@@ -1,0 +1,49 @@
+#navbar h1{
+  float:none;
+  text-align:center;
+}
+#navbar ul, #navbar ul li{
+  float:none;
+}
+#navbar ul li a{
+  padding: 5px; 
+  border-bottom:#444 dotted 1px;
+}
+/* showcase */
+#showcase{
+  height:100%;
+}
+.showcase-content{
+  padding-top:70px;
+  padding-bottom:30px;
+}
+/* home-info */
+#home-info .img-info{
+  display:none;
+}
+.content-info{
+  float:none;
+  width:100%;
+}
+/* boxes */
+.box{
+  float:none;
+  width:100%;
+}
+/* about-info */
+#about-info .about-left,
+#about-info .about-right{
+  float: none;
+  width:100%;
+}
+.l-heading{
+  text-align:center;
+}
+#about-info .about-right{
+  margin-top:30px;
+}
+#feature .box{
+  border-bottom: #444 dotted 1px;
+}
+
+
